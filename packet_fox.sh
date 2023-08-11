@@ -1,5 +1,5 @@
 #!/bin/sh /etc/rc.common
-START=100
+START=99
 
 start()
 {
