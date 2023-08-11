@@ -1,0 +1,3 @@
+1) place bash scripts in /etc/init.d
+2) use ./<name of bash script> enable
+3) reboot
